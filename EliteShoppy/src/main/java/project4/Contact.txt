@@ -1,0 +1,12 @@
+*********NEW MESSAGE FROM AHMED*********
+NAME:    AHMED
+EMAIL:   ahmed@gmail.com
+SUBJECT: subject
+MESSAGE: msg
+
+*********NEW MESSAGE FROM ADASDASD*********
+NAME:    ADASDASD
+EMAIL:   sadasd@asdasd.com
+SUBJECT: dsfdsf
+MESSAGE: msg
+
